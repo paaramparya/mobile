@@ -1,0 +1,14 @@
+{
+    "app_id" : "com.paaramparya.mobile",
+    "versioncode" : "2016",
+    "versionname" : "1.0",
+    "cache_expiration_time" : 300000,
+    "default_lang" : "en",
+	"languages": {"en": "English"},
+    "wsservice" : "moodle_mobile_app",
+    "wsextservice" : "local_mobile",
+    "gcmpn": "694767596569",
+    "customurlscheme": "moodlemobile",
+	"siteurl": "http://192.168.0.103:8081/moodle/"
+	
+}
